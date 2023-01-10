@@ -1,0 +1,2 @@
+Replace this text with your steam web api key
+You can get one here: https://steamcommunity.com/dev/apikey
